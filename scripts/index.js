@@ -706,7 +706,7 @@ window.onload=function(){
 		document.onmousemove = function(e){
 			var xx2 = e.clientX;
 			if( (xx2-xx1) > 100){
-				location.assign('../计算器/index.html');
+				location.assign('http://liyangyang0131.github.io/jsq');
 			}
 		}
 	};
