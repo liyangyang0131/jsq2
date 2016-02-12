@@ -3,6 +3,7 @@ body{
 	font-family:'Helvetica Neue LT Pro';
 	background:url(../images/bg.jpg) no-repeat;
 	background-size:cover;
+	-webkit-user-select: none;
 }
 @keyframes dong {
 	0%{
